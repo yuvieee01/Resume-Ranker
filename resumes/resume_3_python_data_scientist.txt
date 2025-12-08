@@ -1,0 +1,1 @@
+Charlie. Data Scientist with strong Python skills. Proficient in pandas, NumPy, and scikit-learn. Some experience with Flask for building model APIs. Familiar with SQL.

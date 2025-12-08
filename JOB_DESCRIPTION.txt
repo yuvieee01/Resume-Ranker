@@ -1,0 +1,19 @@
+"""
+    Senior Python Developer
+    Location: Bangalore, India
+    Responsibilities:
+    - Design, develop, and maintain high-performance, reusable, and reliable Python code.
+    - Implement and manage scalable backend services and APIs using frameworks like Django or Flask.
+    - Integrate data storage solutions, including SQL and NoSQL databases (e.g., PostgreSQL, MongoDB).
+    - Work with front-end developers to integrate user-facing elements.
+    - Write unit and integration tests to ensure code quality.
+    - Deploy applications to cloud platforms like AWS or Azure.
+    Requirements:
+    - 5+ years of experience in Python development.
+    - Strong proficiency with Django, Flask, or a similar framework.
+    - Experience with RESTful APIs.
+    - Solid understanding of database systems (SQL and NoSQL).
+    - Familiarity with ORM (Object-Relational Mapper) libraries.
+    - Knowledge of cloud services (AWS, Azure, GCP) is a plus.
+    - Experience with containerization (Docker, Kubernetes).
+"""

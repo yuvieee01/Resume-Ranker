@@ -1,0 +1,1 @@
+Alice. Experienced Python developer skilled in Django, Flask, REST APIs, and PostgreSQL. Deployed applications on AWS. 6 years experience.
