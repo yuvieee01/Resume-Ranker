@@ -171,7 +171,7 @@ The backend is a standard FastAPI app. Deploy it wherever you run Python:
 | NLP | spaCy, scikit-learn (TF-IDF + Cosine Similarity) |
 | Backend | FastAPI, Uvicorn, pdfminer.six |
 | Frontend | Next.js 16, CSS Modules, Inter font |
-| Deployment | Vercel (frontend), any Python host (backend) |
+| Deployment | Vercel (frontend), Render (backend) |
 
 ---
 
